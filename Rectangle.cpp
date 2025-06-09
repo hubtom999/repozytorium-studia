@@ -8,18 +8,16 @@ Rectangle::Rectangle(string name, float a, float b) : Figure(name)
 {
     m_a = a;
     m_b = b;
-    m_area = m_a * m_b;
-    m_perimeter = 2 * m_a + 2 * m_b;
 }
 
 float Rectangle::Area() const
 {
-    return m_area;
+    return m_a * m_b;
 }
 
 float Rectangle::Perimeter() const
 {
-    return m_perimeter;
+    return 2 * m_a + 2 * m_b;
 }
 
 void Rectangle::Info() const

@@ -1,0 +1,6 @@
+# ninja log v5
+0	661	7711651601831113	CMakeFiles/Inheritance.dir/main.cpp.obj	de59d6d6621cc53
+10	663	7711651601882514	CMakeFiles/Inheritance.dir/Figure.cpp.obj	7f29c5858fe7c015
+15	664	7711651601902505	CMakeFiles/Inheritance.dir/Rectangle.cpp.obj	b5163a62071dedb6
+21	685	7711651602097137	CMakeFiles/Inheritance.dir/Square.cpp.obj	de28bc9fbc6af6be
+685	1023	7711651605387797	Inheritance.exe	3cf19cb86cb7f7e5
